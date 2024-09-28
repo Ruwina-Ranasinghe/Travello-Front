@@ -12,7 +12,7 @@ const LoginPage = () => {
       sx={{
         width: "100%",
         minHeight: "100vh",
-        backgroundImage: `url('http://localhost:3001/assets/Back.jpg')`,
+        backgroundImage: `url('https://travello-backend.vercel.app/assets/Back.jpg')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
